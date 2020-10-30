@@ -62,8 +62,8 @@ body {
   margin: 5rem 0; /* Space out the Bootstrap <hr> more */
 }
 
-/* Thin out the marketing headings */
-.featurette-heading {
+/* Thin out the marketing hedings */
+.featurette-heding {
   font-weight: 300;
   line-height: 1;
   letter-spacing: -.05rem;
@@ -81,13 +81,13 @@ body {
     line-height: 1.4;
   }
 
-  .featurette-heading {
+  .featurette-heding {
     font-size: 50px;
   }
 }
 
 @media (min-width: 62em) {
-  .featurette-heading {
+  .featurette-heding {
     margin-top: 7rem;
   }
 }
