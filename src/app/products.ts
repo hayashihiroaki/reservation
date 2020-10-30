@@ -7,8 +7,8 @@ export const products = [
     heading1: 'サンプルテキスト1',
     heading2: 'サンプルテキスト2',
     heading3: 'サンプルテキスト3',
-    headingtext1: 'サンプルテキスト　サンプルテキスト　サンプルテキスト　サンプルテキスト',
-    headingtext2: 'テキスト文章　テキスト文章　テキスト文章　テキスト文章　テキスト文章',
+    headingtext1: 'サンプルテキスト サンプルテキスト サンプルテキスト サンプルテキスト',
+    headingtext2: 'テキスト文章 テキスト文章 テキスト文章 テキスト文章 テキスト文章',
     headingtext3: 'Duis mollis, est non commodo luctus, nisi erat porttitor ligula, eget lacinia odio sem nec elit. Cras mattis consectetur purus sit amet fermentum. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh.',
   },
   {
@@ -19,8 +19,8 @@ export const products = [
     heading1: 'サンプルテキスト1',
     heading2: 'サンプルテキスト2',
     heading3: 'サンプルテキスト3',
-    headingtext1: 'サンプルテキスト　サンプルテキスト　サンプルテキスト　サンプルテキスト',
-    headingtext2: 'テキスト文章　テキスト文章　テキスト文章　テキスト文章　テキスト文章',
+    headingtext1: 'サンプルテキスト サンプルテキスト サンプルテキスト サンプルテキスト',
+    headingtext2: 'テキスト文章 テキスト文章 テキスト文章 テキスト文章 テキスト文章',
     headingtext3: 'Duis mollis, est non commodo luctus, nisi erat porttitor ligula, eget lacinia odio sem nec elit. Cras mattis consectetur purus sit amet fermentum. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh.',
   },
   {
@@ -31,8 +31,8 @@ export const products = [
     heading1: 'サンプルテキスト1',
     heading2: 'サンプルテキスト2',
     heading3: 'サンプルテキスト3',
-    headingtext1: 'サンプルテキスト　サンプルテキスト　サンプルテキスト　サンプルテキスト',
-    headingtext2: 'テキスト文章　テキスト文章　テキスト文章　テキスト文章　テキスト文章',
+    headingtext1: 'サンプルテキスト サンプルテキスト サンプルテキスト サンプルテキスト',
+    headingtext2: 'テキスト文章 テキスト文章 テキスト文章 テキスト文章 テキスト文章',
     headingtext3: 'Duis mollis, est non commodo luctus, nisi erat porttitor ligula, eget lacinia odio sem nec elit. Cras mattis consectetur purus sit amet fermentum. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh.',
   },
   {
@@ -43,8 +43,8 @@ export const products = [
     heading1: 'サンプルテキスト1',
     heading2: 'サンプルテキスト2',
     heading3: 'サンプルテキスト3',
-    headingtext1: 'サンプルテキスト　サンプルテキスト　サンプルテキスト　サンプルテキスト',
-    headingtext2: 'テキスト文章　テキスト文章　テキスト文章　テキスト文章　テキスト文章',
+    headingtext1: 'サンプルテキスト サンプルテキスト サンプルテキスト サンプルテキスト',
+    headingtext2: 'テキスト文章 テキスト文章 テキスト文章 テキスト文章 テキスト文章',
     headingtext3: 'Duis mollis, est non commodo luctus, nisi erat porttitor ligula, eget lacinia odio sem nec elit. Cras mattis consectetur purus sit amet fermentum. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh.',
   }
 ];
